@@ -7,15 +7,18 @@ Cette application simule un système de particules en mouvement perpétuel dans 
 - **Particules** :
   - Forme : cercle
   - Rayon : fixe (identique pour toutes les particules)
-  - Couleur : générée aléatoirement
+  - Couleur : 
+
+https://github.com/user-attachments/assets/cf6cdbff-e783-4eec-89d9-17cf733350f1
+
+
   - Position initiale : aléatoire
   - Direction : aléatoire selon le **voisinage de Moore** (8 directions possibles)
 
 - **Comportement** :
   - À chaque cycle :
     - La particule avance dans sa direction actuelle
-    - Si elle atteint un bord, elle **réapparaît de l'autre côté** de l'environnement (effet de torus)
-    - Si elle entre en collision avec une autre particule, elle **change de direction** aléatoirement
+    - Si elle entre en collision avec une autre particule, elle **change de direction** 
 
 ## 🛠️ Technologies
 
