@@ -30,3 +30,5 @@ Cette application simule un système de particules en mouvement perpétuel dans 
 
 ```bash
 sbt run
+
+
